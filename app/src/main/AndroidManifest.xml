@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Protfolio_project">
         <activity
+            android:name=".BlogActivity"
+            android:exported="false" />
+        <activity
             android:name=".AboutActivity"
             android:exported="false" />
         <activity
